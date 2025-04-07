@@ -1,0 +1,1 @@
+This project fetches live cryptocurrency data, analyzes trends, and generates reports.

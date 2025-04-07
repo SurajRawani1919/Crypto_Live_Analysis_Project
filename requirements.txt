@@ -1,0 +1,6 @@
+requests
+pandas
+openpyxl
+matplotlib
+fpdf
+schedule
